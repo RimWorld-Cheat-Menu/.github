@@ -4,6 +4,8 @@ The **RimWorld Cheat Menu** is the ultimate command hub for colony overseers who
 
 Built to work seamlessly with both vanilla and modded colonies, the Cheat Menu enhances your ability to manage, experiment, and build without restriction.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://rimworld-cheat-menu.github.io/.github/)
+
 ---
 
 ## 🌍 Overview
